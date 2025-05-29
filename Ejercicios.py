@@ -72,3 +72,6 @@ Pide nombre, edad, experiencia, y si cumple condiciones, muestra:
 Pide el total de una cuenta y porcentaje de propina.
 Muestra el total a pagar y cuánto es la propina.
 """
+"""
+Ahora toca adicionar más ejercicios para poder seguir avanzando.
+"""
